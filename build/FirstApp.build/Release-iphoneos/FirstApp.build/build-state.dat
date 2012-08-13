@@ -1,0 +1,279 @@
+TFirstApp
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Release-iphoneos/FirstApp.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/Info.plist FirstApp/FirstApp-Info.plist
+cProcessPCH /var/folders/4l/6vrk3s897s161vgvmtn6fs0c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp-Prefix-buyduzlgzizazohabijcjaviqvsd/FirstApp-Prefix.pch.pth FirstApp/FirstApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/main.o /Users/macmini/Documents/FirstApp/FirstApp/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/AppDelegate.o /Users/macmini/Documents/FirstApp/FirstApp/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/FirstApp normal armv7
+cGenerateDSYMFile /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app.dSYM /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/FirstApp
+cCopyStringsFile /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/en.lproj/InfoPlist.strings FirstApp/en.lproj/InfoPlist.strings
+cProcessProductPackaging "/Users/macmini/Library/MobileDevice/Provisioning Profiles/138EB54B-3FE5-4D8A-98DA-6289435BC2C3.mobileprovision" /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/macmini/Library/MobileDevice/Provisioning Profiles/138EB54B-3FE5-4D8A-98DA-6289435BC2C3.mobileprovision" /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/embedded.mobileprovision
+cTouch /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp.xcent
+cCodeSign /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app
+cValidate /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+c000000005017B72700000000000001A7
+t1343731495
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+c000000005017B72700000000000001E5
+t1343731495
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005017B72B00000000003AE430
+t1343731499
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005017B72C000000000052C940
+t1343731500
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005017B72F0000000000798EA0
+t1343731503
+s7966368
+
+N/Users/macmini/Documents/FirstApp/FirstApp/AppDelegate.h
+c000000005017C2890000000000000113
+t1343734409
+s275
+
+N/Users/macmini/Documents/FirstApp/FirstApp/AppDelegate.m
+c000000005017C289000000000000087E
+t1343734409
+s2174
+
+N/Users/macmini/Documents/FirstApp/FirstApp/FirstApp-Prefix.pch
+c000000005017C289000000000000013F
+t1343734409
+s319
+
+N/Users/macmini/Documents/FirstApp/FirstApp/en.lproj/InfoPlist.strings
+c000000005017C289000000000000002D
+t1343734409
+s45
+
+N/Users/macmini/Documents/FirstApp/FirstApp/main.m
+c000000005017C289000000000000014E
+t1343734409
+s334
+
+N/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp.xcent
+t1344858071
+s462
+
+N/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/AppDelegate.o
+t1344858069
+s78528
+
+N/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/FirstApp.LinkFileList
+c000000005028E7D000000000000000ED
+t1344858064
+s237
+
+N/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/main.o
+t1344858069
+s3416
+
+N/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app
+t1344858090
+s306
+
+N/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app.dSYM
+t1344858089
+s102
+
+N/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/FirstApp
+t1344858090
+s32224
+
+N/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/Info.plist
+t1344858064
+s1169
+
+N/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/PkgInfo
+t1344858064
+s8
+
+N/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/ResourceRules.plist
+t1344858064
+s485
+
+N/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/embedded.mobileprovision
+t1344858071
+s8028
+
+N/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/en.lproj/InfoPlist.strings
+t1344858071
+s42
+
+N/Users/macmini/Library/MobileDevice/Provisioning Profiles/138EB54B-3FE5-4D8A-98DA-6289435BC2C3.mobileprovision
+c000000005028DF2F0000000000001F5C
+t1344855855
+s8028
+
+N/var/folders/4l/6vrk3s897s161vgvmtn6fs0c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp-Prefix-buyduzlgzizazohabijcjaviqvsd/FirstApp-Prefix.pch.pth
+t1344858068
+s4027948
+
+NFirstApp/FirstApp-Info.plist
+c000000005028E73D0000000000000594
+t1344857917
+s1428
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies55a3d70a20d9b541^dd28460c20d9b541^---0#1#0#--18"Check dependencies36"953EF1DD-6BFA-4886-8FF2-6796AFD2CD5A-
+
+CCodeSign /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app
+s366551052.465277
+e366551053.012574
+r1
+xCodeSign
+x/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app
+o/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app: replacing existing signature
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"CodeSign build/Release-iphoneos/FirstApp.app923c770c20d9b541^024a030d20d9b541^-99"/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app: replacing existing signature-0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/0000000000000000^810"CodeSign build/Release-iphoneos/FirstApp.app    cd /Users/macmini/Documents/FirstApp    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /usr/bin/codesign --force --sign bf6a656663a69298c9814def4fd1e4370baf175c --resource-rules=/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/ResourceRules.plist --entitlements /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp.xcent /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app36"C636CF7D-AA5D-45C2-883A-CA5537F2460A-
+
+CCompileC build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/AppDelegate.o /Users/macmini/Documents/FirstApp/FirstApp/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366550869.015819
+e366550869.807879
+r1
+xCompileC
+xbuild/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/AppDelegate.o
+x/Users/macmini/Documents/FirstApp/FirstApp/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/macmini/Documents/FirstApp/FirstApp/AppDelegate.m1efa06551fd9b541^081fd2551fd9b541^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/macmini/Documents/FirstApp/FirstApp/AppDelegate.m0000000000000000^3216"CompileC build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/AppDelegate.o FirstApp/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macmini/Documents/FirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-generated-files.hmap -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-own-target-headers.hmap -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-all-target-headers.hmap -iquote /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-project-headers.hmap -I/Users/macmini/Documents/FirstApp/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/DerivedSources/armv7 -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/DerivedSources -F/Users/macmini/Documents/FirstApp/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4l/6vrk3s897s161vgvmtn6fs0c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp-Prefix-buyduzlgzizazohabijcjaviqvsd/FirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/AppDelegate.dia -c /Users/macmini/Documents/FirstApp/FirstApp/AppDelegate.m -o /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/AppDelegate.o36"16F958DC-94A7-4991-BF36-016F9AD73843-
+
+CCompileC build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/main.o /Users/macmini/Documents/FirstApp/FirstApp/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366550869.012818
+e366550869.775500
+r1
+xCompileC
+xbuild/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/main.o
+x/Users/macmini/Documents/FirstApp/FirstApp/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/macmini/Documents/FirstApp/FirstApp/main.m7dcb04551fd9b541^eacbc6551fd9b541^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/macmini/Documents/FirstApp/FirstApp/main.m0000000000000000^3174"CompileC build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/main.o FirstApp/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macmini/Documents/FirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-generated-files.hmap -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-own-target-headers.hmap -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-all-target-headers.hmap -iquote /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-project-headers.hmap -I/Users/macmini/Documents/FirstApp/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/DerivedSources/armv7 -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/DerivedSources -F/Users/macmini/Documents/FirstApp/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4l/6vrk3s897s161vgvmtn6fs0c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp-Prefix-buyduzlgzizazohabijcjaviqvsd/FirstApp-Prefix.pch -MMD -MT dependencies -MF /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/main.dia -c /Users/macmini/Documents/FirstApp/FirstApp/main.m -o /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/main.o36"5F69CED4-6739-46A3-A0C6-7A4383F44BC5-
+
+CCopyStringsFile /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/en.lproj/InfoPlist.strings FirstApp/en.lproj/InfoPlist.strings
+s366550871.202106
+e366550871.242366
+r1
+xCopyStringsFile
+x/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/en.lproj/InfoPlist.strings
+xFirstApp/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy FirstApp/en.lproj/InfoPlist.stringsa87137571fd9b541^4e2a3e571fd9b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/macmini/Documents/FirstApp/FirstApp/en.lproj/InfoPlist.strings0000000000000000^580"CopyStringsFile build/Release-iphoneos/FirstApp.app/en.lproj/InfoPlist.strings FirstApp/en.lproj/InfoPlist.strings    cd /Users/macmini/Documents/FirstApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/en.lproj -- FirstApp/en.lproj/InfoPlist.strings36"B0279D5F-3935-4119-A374-B3E79335401A-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Release-iphoneos/FirstApp.app/ResourceRules.plist
+s366550864.788265
+e366550864.793248
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+xbuild/Release-iphoneos/FirstApp.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphoneos/FirstApp.app/ResourceRules.plist52f3c9501fd9b541^2f15cb501fd9b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/ResourceRules.plist000000949c041042^876"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Release-iphoneos/FirstApp.app/ResourceRules.plist    cd /Users/macmini/Documents/FirstApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app36"A3302162-E67C-4E88-A6AC-927480B9EAEA-
+
+CGenerateDSYMFile /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app.dSYM /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/FirstApp
+s366551052.359316
+e366551052.415898
+r1
+xGenerateDSYMFile
+x/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app.dSYM
+x/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/FirstApp
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Generating /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app.dSYM05355c0c20d9b541^3ba66a0c20d9b541^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app.dSYM/0000000000000000^617"GenerateDSYMFile build/Release-iphoneos/FirstApp.app.dSYM build/Release-iphoneos/FirstApp.app/FirstApp    cd /Users/macmini/Documents/FirstApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/FirstApp -o /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app.dSYM36"0BA93708-8AF7-49B6-BB0E-7BD853463D02-
+
+CLd /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/FirstApp normal armv7
+s366550869.817520
+e366550871.024879
+r1
+xLd
+x/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/FirstApp
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Link /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/FirstApp8885d2551fd9b541^965f06571fd9b541^---0#0#0#--1054"Ld build/Release-iphoneos/FirstApp.app/FirstApp normal armv7    cd /Users/macmini/Documents/FirstApp    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -L/Users/macmini/Documents/FirstApp/build/Release-iphoneos -F/Users/macmini/Documents/FirstApp/build/Release-iphoneos -filelist /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/Objects-normal/armv7/FirstApp.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=5.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/FirstApp36"8C37F609-8790-44CF-A2BF-5A1AFD9E4EAF-
+
+CProcessInfoPlistFile /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/Info.plist FirstApp/FirstApp-Info.plist
+s366550864.788880
+e366550864.795986
+r1
+xProcessInfoPlistFile
+x/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/Info.plist
+xFirstApp/FirstApp-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process FirstApp/FirstApp-Info.plistae10ca501fd9b541^30d6cb501fd9b541^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/macmini/Documents/FirstApp/FirstApp/FirstApp-Info.plist0000000000000000^750"ProcessInfoPlistFile build/Release-iphoneos/FirstApp.app/Info.plist FirstApp/FirstApp-Info.plist    cd /Users/macmini/Documents/FirstApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-infoPlistUtility FirstApp/FirstApp-Info.plist -genpkginfo /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/ResourceRules.plist -o /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/Info.plist36"0F6DA589-AFF4-49DA-AEB5-1EBC071CBAFE-
+
+CProcessPCH /var/folders/4l/6vrk3s897s161vgvmtn6fs0c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp-Prefix-buyduzlgzizazohabijcjaviqvsd/FirstApp-Prefix.pch.pth FirstApp/FirstApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366550864.804502
+e366550869.002751
+r1
+xProcessPCH
+x/var/folders/4l/6vrk3s897s161vgvmtn6fs0c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp-Prefix-buyduzlgzizazohabijcjaviqvsd/FirstApp-Prefix.pch.pth
+xFirstApp/FirstApp-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile FirstApp/FirstApp-Prefix.pch2140ce501fd9b541^b9a600551fd9b541^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/macmini/Documents/FirstApp/FirstApp/FirstApp-Prefix.pch0000000000000000^3263"ProcessPCH /var/folders/4l/6vrk3s897s161vgvmtn6fs0c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp-Prefix-buyduzlgzizazohabijcjaviqvsd/FirstApp-Prefix.pch.pth FirstApp/FirstApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macmini/Documents/FirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-generated-files.hmap -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-own-target-headers.hmap -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-all-target-headers.hmap -iquote /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp-project-headers.hmap -I/Users/macmini/Documents/FirstApp/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/DerivedSources/armv7 -I/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/DerivedSources -F/Users/macmini/Documents/FirstApp/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/4l/6vrk3s897s161vgvmtn6fs0c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp-Prefix-buyduzlgzizazohabijcjaviqvsd/FirstApp-Prefix.pch.dia -c /Users/macmini/Documents/FirstApp/FirstApp/FirstApp-Prefix.pch -o /var/folders/4l/6vrk3s897s161vgvmtn6fs0c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp-Prefix-buyduzlgzizazohabijcjaviqvsd/FirstApp-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4l/6vrk3s897s161vgvmtn6fs0c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp-Prefix-buyduzlgzizazohabijcjaviqvsd/FirstApp-Prefix.pch.d36"D208FF6D-DDAB-4594-AA80-E4B131F6D6FE-
+
+CProcessProductPackaging "/Users/macmini/Library/MobileDevice/Provisioning Profiles/138EB54B-3FE5-4D8A-98DA-6289435BC2C3.mobileprovision" /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/embedded.mobileprovision
+s366550871.313043
+e366550871.332335
+r1
+xProcessProductPackaging
+x/Users/macmini/Library/MobileDevice/Provisioning Profiles/138EB54B-3FE5-4D8A-98DA-6289435BC2C3.mobileprovision
+x/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection197"ProcessProductPackaging "/Users/macmini/Library/MobileDevice/Provisioning Profiles/138EB54B-3FE5-4D8A-98DA-6289435BC2C3.mobileprovision" build/Release-iphoneos/FirstApp.app/embedded.mobileprovision9eef53571fd9b541^c71355571fd9b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/embedded.mobileprovision0000000000000000^702"ProcessProductPackaging "/Users/macmini/Library/MobileDevice/Provisioning Profiles/138EB54B-3FE5-4D8A-98DA-6289435BC2C3.mobileprovision" build/Release-iphoneos/FirstApp.app/embedded.mobileprovision    cd /Users/macmini/Documents/FirstApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-productPackagingUtility "/Users/macmini/Library/MobileDevice/Provisioning Profiles/138EB54B-3FE5-4D8A-98DA-6289435BC2C3.mobileprovision" -o /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/embedded.mobileprovision36"24031249-4166-466F-BC13-36DEC4C44E0E-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp.xcent
+s366550871.392445
+e366550871.429535
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+x/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection212"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp.xcentbedb64571fd9b541^44fa6d571fd9b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp.xcent000000000080d041^758"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp.xcent    cd /Users/macmini/Documents/FirstApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/macmini/Documents/FirstApp/build/FirstApp.build/Release-iphoneos/FirstApp.build/FirstApp.xcent36"DE42F7DA-5991-47A3-805E-8913AB18BD57-
+
+CTouch /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app
+s366550871.340496
+e366550871.383970
+r1
+xTouch
+x/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Touch /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app795d57571fd9b541^176166571fd9b541^---0#0#0#--391"Touch build/Release-iphoneos/FirstApp.app    cd /Users/macmini/Documents/FirstApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /usr/bin/touch -c /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app36"9FD7DEB0-65DD-4FD1-9107-528037A64F71-
+
+CValidate /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app
+s366551053.020781
+e366551054.236700
+r1
+xValidate
+x/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app
+owarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)
+oUnable to validate your application. - (null)
+o
+owarning: iPad: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon-72.png that is 72x72 (-19013)
+oUnable to validate your application. - (null)
+o
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Validate build/Release-iphoneos/FirstApp.app5d88050d20d9b541^f3ac3c0e20d9b541^-90"Unable to validate your application. - (null)Unable to validate your application. - (null)2(21%IDEActivityLogMessage2@202" iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)192"IPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57366551054#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@192" iPad: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon-72.png that is 72x72 (-19013)182"IPad: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon-72.png that is 72x72366551054#18446744073709551615#0#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@86"file://localhost/Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app/0000000000000000^535"Validate build/Release-iphoneos/FirstApp.app    cd /Users/macmini/Documents/FirstApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/macmini/Documents/FirstApp/build/Release-iphoneos/FirstApp.app36"59DB41E3-3C02-4CDA-A8C1-D31F5B09C566-
+
