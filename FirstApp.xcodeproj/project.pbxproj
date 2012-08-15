@@ -346,14 +346,14 @@
 		9A802FC915C7FA0A00F0EA8E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: Pawel Glen (8G4U8DE99C)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Pawel Glen (8G4U8DE99C)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FirstApp/FirstApp-Prefix.pch";
 				INFOPLIST_FILE = "FirstApp/FirstApp-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "528A3779-D34C-4A52-A6EC-2E7AEB311041";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "528A3779-D34C-4A52-A6EC-2E7AEB311041";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -361,14 +361,14 @@
 		9A802FCA15C7FA0A00F0EA8E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: Pawel Glen (8G4U8DE99C)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Pawel Glen (8G4U8DE99C)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FirstApp/FirstApp-Prefix.pch";
 				INFOPLIST_FILE = "FirstApp/FirstApp-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "528A3779-D34C-4A52-A6EC-2E7AEB311041";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "528A3779-D34C-4A52-A6EC-2E7AEB311041";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
